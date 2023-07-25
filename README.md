@@ -4,6 +4,14 @@
 
 O objetivo deste projeto é demonstrar a implementação de autenticação JWT (JSON Web Token) em uma aplicação web utilizando o framework Next.js. O JWT é uma forma segura de autenticação e autorização, permitindo que usuários façam login e acessem recursos protegidos de forma segura.
 
+## Tecnologias utilizadas
+`Nextjs`
+`Styled-components`
+`Axios`
+`nookies`
+`Typescript`
+`Material UI`
+
 ## Backend
 
 ### Como Entrar e Executar o Projeto Backend
